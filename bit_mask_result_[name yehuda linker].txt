@@ -1,0 +1,24 @@
+
+Binary Mask Input: 1111111100 
+Decimal Input: 718 
+Input in Binary: 1011001110
+Left Part (Binary): 10110011
+right Part (Binary): 10
+Result in Decimal:[179, 2]
+
+
+Binary Mask Input: 1111000000 
+Decimal Input: 234 
+Input in Binary: 11101010
+Left Part (Binary): 1110
+right Part (Binary): 1010
+Result in Decimal:[14, 10]
+
+
+Binary Mask Input: 1111000000 
+Decimal Input: 77 
+Input in Binary: 1001101
+Left Part (Binary): 1001
+right Part (Binary): 101
+Result in Decimal:[9, 5]
+
