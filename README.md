@@ -1,2 +1,3 @@
-# bits-and-conversions-in-Python-projact
-Working with bits and conversions in Python
+יהודה לינקר
+ת.ז: 326017761
+כיתת ערבה
